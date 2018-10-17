@@ -40,7 +40,7 @@ function Place(x, y) {
 var positionTop = new Place(0, 0);
 var positionBottom = new Place(0, 100);
 console.log(positionTop);
-console.log(positionBottom′);
+console.log(positionBottom);
 
 // Конструктор со свойствами и методами
 function Cat(name) {
